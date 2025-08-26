@@ -52,6 +52,10 @@ summary:hover {
     color: var(--hover-color);
 }
 
+.solution {
+    padding-left: 20px;
+}
+
 .donation_station {
     display: block;
     margin: 0 auto;
